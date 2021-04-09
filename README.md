@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/真香.gif" />
+<img align="right" alt="怎么睡得着？" width="400px" src="https://github.com/JustMachiavelli/wwwroot/blob/master/README%E7%94%A8%E5%9B%BE/JustMachiavelli/%E6%B1%A4%E5%AE%B6%E5%87%A4.jpg?raw=true" />
 
 - 我是一个**热爱编程**、**期待用代码做出产品**的**行动派**。 
 - **真新镇小智**+**姬矢准**+**埃尔文团长**，可以勾勒出我的行为思想。 
@@ -26,7 +26,7 @@
 - 回忆从前、反思过去、期待未来，所以我还喜欢**整理岁月**： 
 - 过去同学送我的断尺、高考前在被窝里偷看的动漫…… 
 - 我的项目目前主要是帮助用户**整理规范本地视频**
-- 大学依次接触C++、java、C#后，彻底**迷上VS+C#**的组合。
+- 大学依次接触一些编程语言后，最终**迷上VS+CSharp**的组合。
 - 磕磕碰碰地边学边写**Asp.Net Core**应用中！
 
 <img src="https://github-readme-stats.vercel.app/api?username=JustMachiavelli&count_private=true&show_icons=true" alt="Jackyu" /> 
