@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Technology Use](https://github-readme-stats.vercel.app/api?username=JustMachiavelli&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+![Technology Use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMachiavelli)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JustMachiavelli&show_icons=true)
