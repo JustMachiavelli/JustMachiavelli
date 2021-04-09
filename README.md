@@ -1,25 +1,32 @@
-### Hi there 👋
+### 大家好 👋, 我是Just Machiavelli（正义的Machiavelli）。
 
-I'm Just Machiavelli. You can contact me through these platforms:
-[Bilibili](https://space.bilibili.com/55683833), 
-[Weibo](https://weibo.com/6065472112), 
-[Twitter](https://twitter.com/JMachiavellian), 
-[Douban](https://www.douban.com/people/206062992/), 
+<a href="https://space.bilibili.com/55683833">
+  <img align="left" alt="B站" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
+</a>
+<a href="https://weibo.com/6065472112">
+  <img align="left" alt="新浪微博" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sinaweibo.svg" />
+</a>
+<a href="https://twitter.com/JMachiavellian">
+  <img align="left" alt="推特" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.douban.com/people/206062992/">
+  <img align="left" alt="豆瓣" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/douban.svg" />
+</a>
 
-<!--
-**alexinea/alexinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" width="400px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/真香.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 我是一个**热爱编程**、**期待用代码做出产品**的**行动派**。 
+- **真新镇小智**+**姬矢准**+**埃尔文团长**，可以勾勒出我的行为思想。 
+- 喜欢坐在电脑前14个小时，然后花2小时走夜路、泡澡。
+- 喜欢冥想，反思总结**昨天的过失**、**今天的进步**、**明天的计划**。 
+- 剩下的8小时真的不想花在吃饭睡觉上，可惜身体不同意。 
+- 回忆从前、反思过去、期待未来，所以我还喜欢**整理岁月**： 
+- 过去同学送我的断尺、高考前在被窝里偷看的动漫…… 
+- 我的项目目前主要是帮助用户**整理规范本地视频**
+- 大学依次接触C++、java、C#后，彻底**迷上VS+C#**的组合。
+- 磕磕碰碰地边学边写**Asp.Net Core**应用中！
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JustMachiavelli&show_icons=true)  
-![Technology Use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMachiavelli)  
+<img src="https://github-readme-stats.vercel.app/api?username=JustMachiavelli&count_private=true&show_icons=true" alt="Jackyu" /> 
