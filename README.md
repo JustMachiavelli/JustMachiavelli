@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Just Machiavelli. You can contact me through these platforms:
-[Bilibili](https://space.bilibili.com/55683833) 
+[Bilibili](https://space.bilibili.com/55683833), 
 [Weibo](https://weibo.com/6065472112), 
 [Twitter](https://twitter.com/JMachiavellian), 
 [Douban](https://www.douban.com/people/206062992/), 
