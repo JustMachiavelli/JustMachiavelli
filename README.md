@@ -29,5 +29,6 @@
 - 刚开始是整理色情视频，现在是所有影视作品。 
 - 依次接触一些编程语言后，最终**迷上VS+CSharp**的组合。 
 - 磕磕碰碰地边学边写**Asp.Net Core**应用中！ 
+- 烦请大家follow我，把star甩给我，批评指正我，监督我的进步！ 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JustMachiavelli&count_private=true&show_icons=true" alt="Jackyu" /> 
