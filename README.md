@@ -3,6 +3,9 @@
 <a href="https://space.bilibili.com/55683833">
   <img align="left" alt="B站" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
+<a href="https://www.zhihu.com/people/liu-yue-yu-de-pi-qia-qiu">
+  <img align="left" alt="知乎" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/zhihu.svg" />
+</a>
 <a href="https://weibo.com/6065472112">
   <img align="left" alt="新浪微博" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sinaweibo.svg" />
 </a>
